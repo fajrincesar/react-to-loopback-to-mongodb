@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mongo": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "mongodb://rin:12345@localhost:27017/purwadhika",
+    "database": "purwadhika",
+    "password": "12345",
+    "name": "mongo",
+    "user": "rin2",
+    "connector": "mongodb"
+  }
+}
